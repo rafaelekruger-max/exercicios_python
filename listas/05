@@ -1,0 +1,6 @@
+
+numeros = [2, 5, 1, 9, 22, ]
+numeros.reverse()
+
+for numero in numeros:
+    print(numero)

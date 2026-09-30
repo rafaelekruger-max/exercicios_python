@@ -1,0 +1,4 @@
+numeros = [4, 2, 42, 24, 670]
+
+for numero in numeros:
+    print(numero)

@@ -1,0 +1,8 @@
+numeros = [4, 2, 42, 24, 670]
+
+soma = 0
+
+for numero in numeros:
+    soma = soma + numero
+
+print(f"A soma dos números da lista é: {soma}")
